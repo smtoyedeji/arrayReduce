@@ -8,5 +8,5 @@ Day 18 challenge of 21-days coding challenge
 
 ![Day 18 Challenge](./arrayReduce.jpg "How Aray Reduce Works")
 
-Project link: [Javascript Array.Reduce](https://smtoyedeji.github.io/javascript21-18.github.io/)
+Project link: [Javascript Array.Reduce](https://smtoyedeji.github.io/arrayReduce/)
 
